@@ -1,0 +1,6 @@
+.stack-work/
+mesa-verde.cabal
+*~
+dist-newstyle
+
+
